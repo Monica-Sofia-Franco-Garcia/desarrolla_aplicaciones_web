@@ -8,8 +8,8 @@ Archivo: https://github.com/Monica-Sofia-Franco-Garcia/desarrolla_aplicaciones_w
 
 Práctica 2 - 24/10/22
 Eliminar registro en php
-Commit:
-Archivo
+Commit:f0b559fd87091ff84ce1cdbbe48232316f0b5ca5
+Archivo https://github.com/Monica-Sofia-Franco-Garcia/desarrolla_aplicaciones_web/blob/main/parcial2/PracticaWebDatos/eliminarRegistro.php
 
 Práctica 3 - 24/10/22
 Editar registro en php
